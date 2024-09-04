@@ -31,6 +31,6 @@ La idea de la APP es gestionar turnos que puedan sacar socios para un salon de u
 ![Descripción de la imagen](https://iili.io/dkxdAFe.png)
 
 
-### Contact Me
+### Contacto
 
 lrossetti91@gmail.com
