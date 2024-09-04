@@ -1,4 +1,4 @@
-# GRUPO LOS MAGIOS
+# GRUPO LAB-2
 ## App "Turnero"
 
 
